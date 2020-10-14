@@ -1,4 +1,4 @@
-//ax^2 + bx - c = 0
+
 var x1: Double = 0
 var x2: Double = 0
 var D: Double = 0
